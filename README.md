@@ -1,1 +1,2 @@
-(https://github.com/LeraPolovinkina/Orgo/assets/92320503/07372a16-6bb3-403a-baf8-9de3567b6714)
+
+![Дизайн без названия-2](https://github.com/LeraPolovinkina/Orgo/assets/92320503/ffbd55fd-308e-4ab8-9b11-6e9294ac6b46)
