@@ -1,5 +1,1 @@
-Pybeelog
-==============
-Ссылка на наш проект: [http://dast4n.pythonanywhere.com/ru/](http://dast4n.pythonanywhere.com/ru/)
-Ccылка на DB: https://sqlspy.io/guest/schemas/uhlizwvsb2c
-
+(https://github.com/LeraPolovinkina/Orgo/assets/92320503/07372a16-6bb3-403a-baf8-9de3567b6714)
